@@ -1,10 +1,7 @@
 # epik-draken.github.io
 
-### my cat's MeWe:
-www.mewe.com/i/tylee10
-
-### Pinterest
-https://www.pinterest.com/epikdraken
+[my cat's MeWe](www.mewe.com/i/tylee10)
+[epik.draken@Pinterest](https://www.pinterest.com/epikdraken)
 
 ### contact
 the best way to contact me is probably [signal](https://signal.org)
