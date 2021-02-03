@@ -1,6 +1,7 @@
 # epik-draken.github.io
 
-[my cat's MeWe](www.mewe.com/i/tylee10)
+[my cat's MeWe](https://www.mewe.com/i/tylee10)
+
 [epik.draken@Pinterest](https://www.pinterest.com/epikdraken)
 
 ### contact
