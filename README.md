@@ -1,7 +1,7 @@
 # epik-draken.github.io
 
 [my cat's MeWe](https://www.mewe.com/i/tylee10)  
-[epik.draken@Pinterest](https://www.pinterest.com/epikdraken)
+[epik-draken@Pinterest](https://www.pinterest.com/epikdraken)
 
 ### contact
 the best way to contact me is probably [signal](https://signal.org)
@@ -17,6 +17,6 @@ _this is a public bookmarks list with website i recommend and with subjects of i
 
 [mojeek.com](https://mojeek.com) _an eco-friendly search engine / webcrawler that doesn't track you_  
 [mailfence.com](https://mailfence.com) _trusted and secure webmail provider_  
-[protonmail.com](https://protonmail.com) _popular anonymous and encrypted webmail provder based in Switzerland_  
+[protonmail.com](https://protonmail.com) _popular anonymous and encrypted webmail provider based in Switzerland_  
 [bitwarden.com](https://bitwarden.com) _an open-source password vault. keep all your passwords secure_  
 
